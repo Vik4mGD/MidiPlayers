@@ -1,2 +1,2 @@
 # MidiPlayers
-click releases on the left to download the files
+click releases on the right to download the files
